@@ -1,0 +1,2 @@
+userId,username,cashBalance
+U1001,Mohan Krishna,47730.25
